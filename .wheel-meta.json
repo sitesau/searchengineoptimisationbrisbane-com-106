@@ -1,0 +1,22 @@
+{
+  "wheel_id": 390,
+  "structure": "umbrella",
+  "slug": "searchengineoptimisationbrisbane-com-106",
+  "project": "seo-services-brisbane-timeline-6aa1547f7f0b3662d3029d6d63f1c",
+  "parent_t1_ref": "searchengineoptimisationbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "searchengineoptimisationbrisbane.com.au",
+  "primary_kw": "seo services brisbane timeline",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/seo-services-brisbane-timeline-6aa1547f7f0b3662d3029d6d63f1c/",
+  "tier": "T2",
+  "writeback_nonce": "eb71a57981dbca13",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-questions-to-ask-21d122231281c5a756f6a3c0/",
+      "anchor": "seo services brisbane questions to ask",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
